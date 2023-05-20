@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-20T15:10:42 EET" name="Default suite" finished-at="2023-05-20T15:10:50 EET" duration-ms="7837">
+    <groups>
+    </groups>
+    <test started-at="2023-05-20T15:10:42 EET" name="Default test" finished-at="2023-05-20T15:10:50 EET" duration-ms="7837">
+      <class name="LoginFDoodics.Foodics.FoodicsTCs">
+        <test-method signature="User_login_Successfully()[pri:1, instance:LoginFDoodics.Foodics.FoodicsTCs@30ee2816]" started-at="2023-05-20T15:10:42 EET" name="User_login_Successfully" finished-at="2023-05-20T15:10:48 EET" duration-ms="6037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_login_Successfully -->
+        <test-method signature="VerifyHomePageContent()[pri:2, instance:LoginFDoodics.Foodics.FoodicsTCs@30ee2816]" started-at="2023-05-20T15:10:48 EET" name="VerifyHomePageContent" finished-at="2023-05-20T15:10:49 EET" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePageContent -->
+        <test-method signature="VerifyThat_ICanChageFontFrom_whoami()[pri:3, instance:LoginFDoodics.Foodics.FoodicsTCs@30ee2816]" started-at="2023-05-20T15:10:49 EET" name="VerifyThat_ICanChageFontFrom_whoami" finished-at="2023-05-20T15:10:50 EET" duration-ms="1036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyThat_ICanChageFontFrom_whoami -->
+      </class> <!-- LoginFDoodics.Foodics.FoodicsTCs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
